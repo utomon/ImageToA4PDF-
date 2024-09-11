@@ -70,7 +70,7 @@ python resize_pdfs_to_a4.py --input_folder ./pdfs --output_folder ./pdfs
 ```
 
 ## License
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**. See the [LICENSE](License) file for more details.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to open a pull request. For major changes, please open an issue first to discuss what you would like to change.
